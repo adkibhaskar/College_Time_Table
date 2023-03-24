@@ -1,0 +1,25 @@
+*{
+   padding:0;
+   margin:0;
+   box-sizing: border-box;
+}
+.child{
+   width:100%;
+   display: flex;
+}
+#college-logo{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#college-name{
+   margin:auto;
+   text-align: center; 
+   align-items: center;
+   /* margin-top: 20px; */
+}
+#table{
+   display:flex;
+   justify-content: center;
+
+}
+
